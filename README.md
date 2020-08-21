@@ -21,8 +21,8 @@
 
 ## 알고리즘와 자료구조 자료 정리
 
-## 1. [순환]:(https://github.com/chungmin23/alogro_code/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%82%AC%EC%9D%B4%ED%8A%B8/text.txt)
-
+## 1. 순환
+[순환]:(https://github.com/chungmin23/alogro_code/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%82%AC%EC%9D%B4%ED%8A%B8/text.txt)
 
 ## 2. 정렬
 
